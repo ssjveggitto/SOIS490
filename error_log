@@ -1,0 +1,4 @@
+[09-Mar-2016 18:43:05 UTC] PHP Parse error:  syntax error, unexpected '@' in /home/jlooper/public_html/Salon/config/db/db.php on line 6
+[09-Mar-2016 18:43:32 UTC] PHP Fatal error:  Call to undefined function mb_internal_encoding() in /home/jlooper/public_html/Salon/config/db/db.php on line 58
+[09-Mar-2016 19:15:06 UTC] PHP Fatal error:  Call to undefined function mb_internal_encoding() in /home/jlooper/public_html/Salon/config/db/db.php on line 58
+[09-Mar-2016 19:41:59 UTC] PHP Fatal error:  Call to undefined function mb_internal_encoding() in /home/jlooper/public_html/Salon/config/db/db.php on line 58
